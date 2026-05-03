@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "private": true,
-  "homepage": "https://alex3301-1.github.io/todo-app",
+  "homepage": "https://alex3301-1.github.io/todo-app"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
